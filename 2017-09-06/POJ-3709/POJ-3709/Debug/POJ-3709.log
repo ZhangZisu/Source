@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+c:\users\sky\desktop\source\2017-09-06\poj-3709\poj-3709\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sky\desktop\source\2017-09-06\poj-3709\poj-3709\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sky\desktop\source\2017-09-06\poj-3709\poj-3709\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  POJ3709.cpp
+  POJ-3709.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-06\POJ-3709\Debug\POJ-3709.exe
+  POJ-3709.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-06\POJ-3709\Debug\POJ-3709.pdb (Partial PDB)
