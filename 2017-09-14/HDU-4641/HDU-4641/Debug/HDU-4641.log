@@ -1,0 +1,4 @@
+﻿  HDU4641.cpp
+c:\users\sky\desktop\source\2017-09-14\hdu-4641\hdu-4641\hdu4641.cpp(81): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  HDU-4641.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-14\HDU-4641\Debug\HDU-4641.exe
+  HDU-4641.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-14\HDU-4641\Debug\HDU-4641.pdb (Partial PDB)
