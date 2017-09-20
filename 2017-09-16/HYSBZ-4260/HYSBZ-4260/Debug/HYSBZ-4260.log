@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+c:\users\sky\desktop\source\2017-09-16\hysbz-4260\hysbz-4260\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sky\desktop\source\2017-09-16\hysbz-4260\hysbz-4260\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sky\desktop\source\2017-09-16\hysbz-4260\hysbz-4260\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  HYSBZ4260.cpp
+  HYSBZ-4260.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-16\HYSBZ-4260\Debug\HYSBZ-4260.exe
+  HYSBZ-4260.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-16\HYSBZ-4260\Debug\HYSBZ-4260.pdb (Partial PDB)
