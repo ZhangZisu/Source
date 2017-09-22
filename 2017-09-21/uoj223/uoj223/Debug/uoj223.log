@@ -1,0 +1,8 @@
+﻿  uoj223.cpp
+c:\users\sky\desktop\source\2017-09-21\uoj223\uoj223\uoj223.cpp(252): warning C4244: “初始化”: 从“const __int64”转换到“double”，可能丢失数据
+c:\users\sky\desktop\source\2017-09-21\uoj223\uoj223\uoj223.cpp(466): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\sky\desktop\source\2017-09-21\uoj223\uoj223\uoj223.cpp(467): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\sky\desktop\source\2017-09-21\uoj223\uoj223\uoj223.cpp(498): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\sky\desktop\source\2017-09-21\uoj223\uoj223\uoj223.cpp(499): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  uoj223.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-21\uoj223\Debug\uoj223.exe
+  uoj223.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-21\uoj223\Debug\uoj223.pdb (Partial PDB)

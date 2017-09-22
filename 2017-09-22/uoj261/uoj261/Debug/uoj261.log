@@ -1,0 +1,5 @@
+﻿  uoj261.cpp
+c:\users\sky\desktop\source\2017-09-22\uoj261\uoj261\uoj261.cpp(86): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\sky\desktop\source\2017-09-22\uoj261\uoj261\uoj261.cpp(86): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  uoj261.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-22\uoj261\Debug\uoj261.exe
+  uoj261.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-22\uoj261\Debug\uoj261.pdb (Partial PDB)

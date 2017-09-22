@@ -1,0 +1,5 @@
+﻿  HYSBZ1096.cpp
+c:\users\sky\desktop\source\2017-09-20\hysbz-1096\hysbz-1096\hysbz1096.cpp(21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\sky\desktop\source\2017-09-20\hysbz-1096\hysbz-1096\hysbz1096.cpp(23): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  HYSBZ-1096.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-20\HYSBZ-1096\Debug\HYSBZ-1096.exe
+  HYSBZ-1096.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-20\HYSBZ-1096\Debug\HYSBZ-1096.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\users\sky\desktop\source\2017-09-22\hysbz-3675\hysbz-3675\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sky\desktop\source\2017-09-22\hysbz-3675\hysbz-3675\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sky\desktop\source\2017-09-22\hysbz-3675\hysbz-3675\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  HYSBZ3675.cpp
+c:\users\sky\desktop\source\2017-09-22\hysbz-3675\hysbz-3675\hysbz3675.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sky\desktop\source\2017-09-22\hysbz-3675\hysbz-3675\hysbz3675.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
