@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  HYSBZ4035.cpp
+c:\users\sky\desktop\source\2017-09-26\hysbz-4035\hysbz-4035\hysbz4035.cpp(19): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+  HYSBZ-4035.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-26\HYSBZ-4035\Debug\HYSBZ-4035.exe
+  HYSBZ-4035.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-26\HYSBZ-4035\Debug\HYSBZ-4035.pdb (Partial PDB)
