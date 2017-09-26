@@ -1,0 +1,5 @@
+﻿  uoj34.cpp
+c:\users\sky\desktop\source\2017-09-25\uoj34\uoj34\uoj34.cpp(29): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\sky\desktop\source\2017-09-25\uoj34\uoj34\uoj34.cpp(30): warning C4018: “<=”: 有符号/无符号不匹配
+  uoj34.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-25\uoj34\Debug\uoj34.exe
+  uoj34.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-25\uoj34\Debug\uoj34.pdb (Partial PDB)
