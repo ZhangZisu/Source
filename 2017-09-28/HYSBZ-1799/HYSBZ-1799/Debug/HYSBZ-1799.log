@@ -1,0 +1,6 @@
+﻿  HYSBZ1799.cpp
+c:\users\sky\desktop\source\2017-09-28\hysbz-1799\hysbz-1799\hysbz1799.cpp(11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\sky\desktop\source\2017-09-28\hysbz-1799\hysbz-1799\hysbz1799.cpp(24): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\sky\desktop\source\2017-09-28\hysbz-1799\hysbz-1799\hysbz1799.cpp(28): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  HYSBZ-1799.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-28\HYSBZ-1799\Debug\HYSBZ-1799.exe
+  HYSBZ-1799.vcxproj -> C:\Users\Sky\Desktop\Source\2017-09-28\HYSBZ-1799\Debug\HYSBZ-1799.pdb (Partial PDB)
