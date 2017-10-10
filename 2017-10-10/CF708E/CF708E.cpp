@@ -14,7 +14,7 @@ inline long long fpow(long long a, long long b){
 	return ret;
 }
 int n, m, k, a, b;
-long long fact[MAXK], inv[MAXK], L[MAXK], R[MAXK], s1, s2, f[1500][1500];
+long long fact[MAXK], inv[MAXK], L[MAXK], R[MAXK], s1, s2, f[1600][1600];
 inline long long P(int l){
 	return fact[k] * inv[k - l] % MOD * inv[l] % MOD * L[l] % MOD * R[k - l] % MOD;
 }
